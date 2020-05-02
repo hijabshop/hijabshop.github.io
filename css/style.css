@@ -73,6 +73,10 @@ section {
 	min-height: 800px;
 }
 
+.content{
+	text-align: center;
+}
+
 .content p{
 	text-align: justify;
 	text-indent: 50px;
@@ -107,4 +111,11 @@ footer p i{
 
 .text-col{
 	color: green;
+}
+
+.garansi{
+	height: 150px;
+	border:1px solid grey;
+	border-radius: 10px;
+	padding: 30px;
 }
