@@ -10,7 +10,7 @@ body{
 
 .jumbotron {
 	height:450px;
-	background-image: url('../img/background.png');
+	background-image: url('../img/background.jpeg');
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: 0 -100px;
@@ -101,6 +101,7 @@ footer p i{
 	border-radius: 50px;
 	text-align: center;
 	margin-top: 50px;
+	color: white;
 }
 
 .text-col{
