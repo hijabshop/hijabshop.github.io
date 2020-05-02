@@ -119,3 +119,9 @@ footer p i{
 	border-radius: 10px;
 	padding: 10px;
 }
+
+@media(max-width:720px) {
+	.garansi h3{
+		font-size: 20px;
+	}
+}
